@@ -1,0 +1,2 @@
+cohort,interaction_scale,estimand,n_intervals,events,estimate,conf_low,conf_high,p_value,log_estimate,se,tau2,i2,q_p_value
+Random-effects meta-analysis,multiplicative,ratio_of_risk_ratios,135519,18641,0.930644075374923,0.657763777991664,1.3167316656975,0.46686507291954,-0.0718783783732225,0.0806551342972093,5.42150075513263e-08,0.000326616057972777,0.237996757246427

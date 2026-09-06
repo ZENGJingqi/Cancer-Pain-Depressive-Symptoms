@@ -1,0 +1,17 @@
+generated_figures/
+data/
+LOCAL_ONLY/
+*.rds
+*.RData
+*.rda
+*.dta
+*.sav
+*.sas7bdat
+*.parquet
+*.feather
+*.zip
+*.log
+.env*
+.Rhistory
+.Rproj.user/
+__pycache__/

@@ -1,0 +1,192 @@
+[
+  {
+    "path": "manuscript/Manuscript_review_v0.9.docx",
+    "source_filename": "完整论文审阅稿_v0.9_GitHub_2026-09-06.docx",
+    "source_sha256": "9a326c7b084c54ba787c9edccd8e6309404b579fb9ebf93079eda1ffd5c6ddfc"
+  },
+  {
+    "path": "supporting/tables/Table1_dual_estimand_characteristics_v1.1.csv",
+    "source_filename": "Table1_dual_estimand_characteristics_v1.1.csv",
+    "source_sha256": "dd95a8d5fd5a5776454168d1ce9e28971888730aa3a63ec6bcc0e394541bdfb4"
+  },
+  {
+    "path": "supporting/tables/Table2_onset_persistence_adjusted_RRs_v1.1.csv",
+    "source_filename": "Table2_onset_persistence_adjusted_RRs_v1.1.csv",
+    "source_sha256": "df840a816bc4fe3cb27c2b600d1e94454ab3e3ec41473a5ef3b6a385cd74febc"
+  },
+  {
+    "path": "supporting/tables/Table3_adjusted_absolute_risks_v1.1.csv",
+    "source_filename": "Table3_adjusted_absolute_risks_v1.1.csv",
+    "source_sha256": "2d5416b56c18ed495aeafc465128f6de4a47b6baff138064624dfcb93d2f3acf"
+  },
+  {
+    "path": "supporting/tables/Table3_adjusted_risk_differences_v1.1.csv",
+    "source_filename": "Table3_adjusted_risk_differences_v1.1.csv",
+    "source_sha256": "2ea37217bf85d4b4ad15e38cb0e9b90f37cdd8b8a382d27270717e13ff04d732"
+  },
+  {
+    "path": "supporting/tables/TableS3_direct_and_composite_comparisons.csv",
+    "source_filename": "TableS3_direct_and_composite_comparisons.csv",
+    "source_sha256": "a029e16e123bbb60900de23e2cb34b09596b14f2e486ceaf91356b1d74898c00"
+  },
+  {
+    "path": "supporting/models/pain_burden_category_risk_ratios_v1.1.csv",
+    "source_filename": "pain_burden_category_risk_ratios_v1.1.csv",
+    "source_sha256": "994933b471061e50bf379fa1a0dcc6abc62744e798972a08453a147e6f1078d2"
+  },
+  {
+    "path": "supporting/models/onset_persistence_function_and_sensitivity_meta_v1.1.csv",
+    "source_filename": "onset_persistence_function_and_sensitivity_meta_v1.1.csv",
+    "source_sha256": "551827480c4932a9a275a3fbefa86725068a8bb74a613feecc353fa6307c7af2"
+  },
+  {
+    "path": "supporting/models/onset_persistence_function_and_persistence_sensitivities_v1.1.csv",
+    "source_filename": "onset_persistence_function_and_persistence_sensitivities_v1.1.csv",
+    "source_sha256": "02cc82382c54a7c23b1bf005824e9c9939054d84fffc522c69c4b63cd7552128"
+  },
+  {
+    "path": "supporting/models/prespecified_sensitivity_risk_ratios_v1.0.csv",
+    "source_filename": "prespecified_sensitivity_risk_ratios_v1.0.csv",
+    "source_sha256": "2149b026b7713e439b3b0aa543ccd7bed8ead6729650e67264d2fac59fbc4be6"
+  },
+  {
+    "path": "supporting/models/complete_case_adjusted_risk_ratios_v1.0.csv",
+    "source_filename": "complete_case_adjusted_risk_ratios_v1.0.csv",
+    "source_sha256": "2b09cd1d9bd47de84d582410f4785f442762e280783303d0831e6583f2116cd4"
+  },
+  {
+    "path": "supporting/models/pain_burden_ordinal_trend_v1.1.csv",
+    "source_filename": "pain_burden_ordinal_trend_v1.1.csv",
+    "source_sha256": "74e7949bb4379c3fcab4fae36d4e14d6d115cbd1a4eebd4fec77824006ff2b06"
+  },
+  {
+    "path": "supporting/models/sleep_item_excluded_score_meta_v1.1.csv",
+    "source_filename": "sleep_item_excluded_score_meta_v1.1.csv",
+    "source_sha256": "9e5fd16235fe12276b8d20337a9c527dfc16ccd346f6279107a48b56f8e826de"
+  },
+  {
+    "path": "supporting/models/sleep_item_excluded_score_sensitivity_v1.1.csv",
+    "source_filename": "sleep_item_excluded_score_sensitivity_v1.1.csv",
+    "source_sha256": "48eb7335b2444bd48347d88cc31a1749306dfd2359f1d7b9a30e8701162da3c9"
+  },
+  {
+    "path": "supporting/models/continuous_depressive_score_meta_v1.0.csv",
+    "source_filename": "continuous_depressive_score_meta_v1.0.csv",
+    "source_sha256": "fb067ebd3784a50dbdd5fb0462b7b7e995e8d36a579a97082df7bec403241b55"
+  },
+  {
+    "path": "supporting/models/continuous_depressive_score_sensitivity_v1.0.csv",
+    "source_filename": "continuous_depressive_score_sensitivity_v1.0.csv",
+    "source_sha256": "3d2bf42b177fcc3f568ca38bd883680721e9d41318e717753b719408a3c2673b"
+  },
+  {
+    "path": "supporting/models/persistence_continuous_score_meta_v1.1.csv",
+    "source_filename": "persistence_continuous_score_meta_v1.1.csv",
+    "source_sha256": "9294b34f39f6046902a4abea8e7d449f2a5c3d539319c2217c12f03d2159e29f"
+  },
+  {
+    "path": "supporting/models/persistence_continuous_score_sensitivity_v1.1.csv",
+    "source_filename": "persistence_continuous_score_sensitivity_v1.1.csv",
+    "source_sha256": "ea13b1c3f14d4d2b88d900a2ec620dfddc1326d3a783fccb96fd04b24ea4459d"
+  },
+  {
+    "path": "supporting/models/age_sex_interaction_meta_v1.1.csv",
+    "source_filename": "age_sex_interaction_meta_v1.1.csv",
+    "source_sha256": "f290719ec75d04d31261ee7763bfc7301f985bbd25846c0d9845ff40469008e9"
+  },
+  {
+    "path": "supporting/models/age_sex_interaction_ratio_of_rr_v1.1.csv",
+    "source_filename": "age_sex_interaction_ratio_of_rr_v1.1.csv",
+    "source_sha256": "da2ef3921d6c63e74bab63a307cb7caf21f742b7b5a0b8117b983ea83fae9c1b"
+  },
+  {
+    "path": "supporting/models/age_sex_joint_interaction_tests_v1.1.csv",
+    "source_filename": "age_sex_joint_interaction_tests_v1.1.csv",
+    "source_sha256": "490244648559e50c6477df5e5b868c2b342ae56a2da62c8947b2d7734a9c2ebe"
+  },
+  {
+    "path": "supporting/models/age_sex_stratum_specific_risk_ratios_v1.1.csv",
+    "source_filename": "age_sex_stratum_specific_risk_ratios_v1.1.csv",
+    "source_sha256": "13fee0a8b1c5679b6154dd387ac95756df57578857b679fdebe3a88b21a9eb54"
+  },
+  {
+    "path": "supporting/models/secondary_complete_case_interactions_v1.0.csv",
+    "source_filename": "secondary_complete_case_interactions_v1.0.csv",
+    "source_sha256": "617f9e4326b76dd88643fb0100f6751f65048d080528b570cad63a88d77b2c9d"
+  },
+  {
+    "path": "supporting/models/secondary_multiplicative_interaction_meta_v1.0.csv",
+    "source_filename": "secondary_multiplicative_interaction_meta_v1.0.csv",
+    "source_sha256": "cfc0352e454baa0d2179a12abf75de446ba9d07208f6387f773d1827cd310164"
+  },
+  {
+    "path": "supporting/models/composite_share_weight_trim_sensitivity_v1.2.csv",
+    "source_filename": "composite_share_weight_trim_sensitivity_v1.2.csv",
+    "source_sha256": "7742d96ebb5dc80ff0d61a741b7fe7ae1b38649b46e91dace73f7db4730f08a8"
+  },
+  {
+    "path": "supporting/models/composite_adverse_state_adjusted_risk_ratios_v1.2.csv",
+    "source_filename": "composite_adverse_state_adjusted_risk_ratios_v1.2.csv",
+    "source_sha256": "4387f36177fc0e42c6b9221075ae0f1dfbd9ad56bcb6313201b9680ace1530a5"
+  },
+  {
+    "path": "supporting/flow/dual_estimand_aggregated_flow_v1.1.csv",
+    "source_filename": "dual_estimand_aggregated_flow_v1.1.csv",
+    "source_sha256": "def7d36c22be2ab6bda41258f42a8e3bf97bde1fc7191348a30dae4bb47b419c"
+  },
+  {
+    "path": "supporting/models/HRS_returned_RRs_reviewed.csv",
+    "source_filename": "HRS_returned_RRs_reviewed.csv",
+    "source_sha256": "aa0939483619f6a5887a5aa885ba60935a909fbd4892e7ae0044eb8a7366041f"
+  },
+  {
+    "path": "figures/Figure1_onset_persistence_adjusted_RRs_v1.1.pdf",
+    "source_filename": "Figure1_onset_persistence_adjusted_RRs_v1.1.pdf",
+    "source_sha256": "76894c284eb1122e0ae5adb4f80356a6fb49cfcabe0859cb09a11ebacb01a97a"
+  },
+  {
+    "path": "figures/Figure1_onset_persistence_adjusted_RRs_v1.1_preview.png",
+    "source_filename": "Figure1_onset_persistence_adjusted_RRs_v1.1_preview.png",
+    "source_sha256": "b2898fa772912143c08ecfc94124d581e775b4241edd4415036d906df25e4276"
+  },
+  {
+    "path": "figures/Figure2_adjusted_absolute_risks_and_differences_v1.1.pdf",
+    "source_filename": "Figure2_adjusted_absolute_risks_and_differences_v1.1.pdf",
+    "source_sha256": "cb70fd1ffa83df1b6a0dfa1ba730d7bb0c67227a8e04c2d65cb799af7ed85cda"
+  },
+  {
+    "path": "figures/Figure2_adjusted_absolute_risks_and_differences_v1.1_preview.png",
+    "source_filename": "Figure2_adjusted_absolute_risks_and_differences_v1.1_preview.png",
+    "source_sha256": "c168ed5aa3cf003e207e45f1482ce16acd2bda16f4fe7ce4dea69db80d6a438e"
+  },
+  {
+    "path": "figures/Figure3_pain_burden_gradients_v1.1.pdf",
+    "source_filename": "Figure3_pain_burden_gradients_v1.1.pdf",
+    "source_sha256": "a9c87b78cee2264a1276a84af29d2df922e736d1e812608bd3cc33d8f75d03cd"
+  },
+  {
+    "path": "figures/Figure3_pain_burden_gradients_v1.1_preview.png",
+    "source_filename": "Figure3_pain_burden_gradients_v1.1_preview.png",
+    "source_sha256": "b1b738f09c04def526870b0d4fa5593949b5de4033fb005678b2030dac4f4fa2"
+  },
+  {
+    "path": "figures/FigureS2_function_adjustment_sequence_v1.1.pdf",
+    "source_filename": "FigureS2_function_adjustment_sequence_v1.1.pdf",
+    "source_sha256": "faea6fbf4e08553c95d250a57a55163610891919264b7de6f132c7bb5958d03c"
+  },
+  {
+    "path": "figures/FigureS2_function_adjustment_sequence_v1.1_preview.png",
+    "source_filename": "FigureS2_function_adjustment_sequence_v1.1_preview.png",
+    "source_sha256": "08a5100beaa8277d88bf9efbbe7c7e55fe1b4b2ea615939a6c4694c8e0de3734"
+  },
+  {
+    "path": "figures/FigureS1_dual_estimand_flow_v1.1.pdf",
+    "source_filename": "FigureS1_dual_estimand_flow_v1.1.pdf",
+    "source_sha256": "b42e0c39643b2dad32e993f26a4986ef466b3b5ce16c8fe6720f541705f969ef"
+  },
+  {
+    "path": "figures/FigureS1_dual_estimand_flow_v1.1_preview.png",
+    "source_filename": "FigureS1_dual_estimand_flow_v1.1_preview.png",
+    "source_sha256": "45ee345331f073eb97534bb378d8993ede1f54ec6cba01d19c93a6b426847ab2"
+  }
+]

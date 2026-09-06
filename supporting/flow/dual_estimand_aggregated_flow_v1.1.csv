@@ -1,0 +1,55 @@
+cohort,step,n,estimand,step_plot,retention
+HRS,baseline interviewed,93082,Onset estimand,Baseline interview,1
+HRS,age >= 50,90409,Onset estimand,Age >=50 years,0.971283384542661
+HRS,valid cancer and pain,90065,Onset estimand,Valid cancer and pain,0.967587718355858
+HRS,valid baseline depressive score,85625,Onset estimand,Valid baseline symptom score,0.919887840828517
+HRS,below depressive threshold,72216,Onset estimand,Below symptom threshold,0.775832062052814
+HRS,follow-up depressive outcome observed,60261,Onset estimand,Follow-up outcome observed,0.647396918845749
+HRS,positive initial analysis weight,58443,Onset estimand,Positive analysis weight,0.627865752777121
+SHARE,baseline interviewed,119733,Onset estimand,Baseline interview,1
+SHARE,age >= 50,118078,Onset estimand,Age >=50 years,0.986177578445374
+SHARE,valid cancer and pain,117571,Onset estimand,Valid cancer and pain,0.981943156857341
+SHARE,valid baseline depressive score,117571,Onset estimand,Valid baseline symptom score,0.981943156857341
+SHARE,below depressive threshold,86103,Onset estimand,Below symptom threshold,0.719125053243467
+SHARE,follow-up depressive outcome observed,63940,Onset estimand,Follow-up outcome observed,0.534021531240343
+SHARE,positive initial analysis weight,62678,Onset estimand,Positive analysis weight,0.523481412810169
+CHARLS,baseline interviewed,57417,Onset estimand,Baseline interview,1
+CHARLS,age >= 50,44840,Onset estimand,Age >=50 years,0.780953376177787
+CHARLS,valid cancer and pain,40339,Onset estimand,Valid cancer and pain,0.702561959001689
+CHARLS,valid baseline depressive score,39082,Onset estimand,Valid baseline symptom score,0.680669488130693
+CHARLS,below depressive threshold,25431,Onset estimand,Below symptom threshold,0.442917602800564
+CHARLS,follow-up depressive outcome observed,21378,Onset estimand,Follow-up outcome observed,0.372328752808402
+CHARLS,positive initial analysis weight,21153,Onset estimand,Positive analysis weight,0.368410052771827
+HRS,survived to follow-up,68972,Onset estimand,Survived to follow-up,0.740981070454008
+SHARE,survived to follow-up,83361,Onset estimand,Survived to follow-up,0.696224098619428
+CHARLS,survived to follow-up,24750,Onset estimand,Survived to follow-up,0.431057004023199
+HRS,final core model sample,58443,Onset estimand,Core model sample,0.627865752777121
+SHARE,final core model sample,62160,Onset estimand,Core model sample,0.519155120142317
+CHARLS,final core model sample,21153,Onset estimand,Core model sample,0.368410052771827
+HRS,baseline interviewed,93082,Persistence estimand,Baseline interview,1
+HRS,age >= 50,90409,Persistence estimand,Age >=50 years,0.971283384542661
+HRS,valid cancer and pain,90065,Persistence estimand,Valid cancer and pain,0.967587718355858
+HRS,valid baseline depressive score,85625,Persistence estimand,Valid baseline symptom score,0.919887840828517
+HRS,at/above depressive threshold,13409,Persistence estimand,At/above symptom threshold,0.144055778775703
+HRS,survived to follow-up,12302,Persistence estimand,Survived to follow-up,0.132163039040846
+HRS,follow-up depressive outcome observed,10474,Persistence estimand,Follow-up outcome observed,0.112524440815625
+HRS,positive initial analysis weight,10087,Persistence estimand,Positive analysis weight,0.108366816355472
+SHARE,baseline interviewed,119733,Persistence estimand,Baseline interview,1
+SHARE,age >= 50,118078,Persistence estimand,Age >=50 years,0.986177578445374
+SHARE,valid cancer and pain,117571,Persistence estimand,Valid cancer and pain,0.981943156857341
+SHARE,valid baseline depressive score,117571,Persistence estimand,Valid baseline symptom score,0.981943156857341
+SHARE,at/above depressive threshold,31468,Persistence estimand,At/above symptom threshold,0.262818103613874
+SHARE,survived to follow-up,29005,Persistence estimand,Survived to follow-up,0.242247333650706
+SHARE,follow-up depressive outcome observed,22133,Persistence estimand,Follow-up outcome observed,0.184852964512707
+SHARE,positive initial analysis weight,21866,Persistence estimand,Positive analysis weight,0.182623002848003
+CHARLS,baseline interviewed,57417,Persistence estimand,Baseline interview,1
+CHARLS,age >= 50,44840,Persistence estimand,Age >=50 years,0.780953376177787
+CHARLS,valid cancer and pain,40339,Persistence estimand,Valid cancer and pain,0.702561959001689
+CHARLS,valid baseline depressive score,39082,Persistence estimand,Valid baseline symptom score,0.680669488130693
+CHARLS,at/above depressive threshold,13651,Persistence estimand,At/above symptom threshold,0.237751885330129
+CHARLS,survived to follow-up,13121,Persistence estimand,Survived to follow-up,0.22852116968842
+CHARLS,follow-up depressive outcome observed,11372,Persistence estimand,Follow-up outcome observed,0.19805980807078
+CHARLS,positive initial analysis weight,11277,Persistence estimand,Positive analysis weight,0.196405245833116
+HRS,final core model sample,10087,Persistence estimand,Core model sample,0.108366816355472
+SHARE,final core model sample,21866,Persistence estimand,Core model sample,0.182623002848003
+CHARLS,final core model sample,11277,Persistence estimand,Core model sample,0.196405245833116
