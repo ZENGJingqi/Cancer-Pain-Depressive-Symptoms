@@ -1,0 +1,10 @@
+SAFE AGGREGATE ARITHMETIC AUDIT PASS; NOT WHOLE-PAPER CLOSURE
+Pooled RR/risk/RD rows independently verified: 56
+Classic split R-hat rows: 24
+Maximum MCSE/SE: 0.000795641290832079
+Maximum classic split R-hat: 1.0148756067094
+Maximum absolute RR relative change, percent: 0.431992793992464
+CI inclusion changes: 0
+Old/new contrast includes rerandomized MI and finite-df change, not isolated source-version effect.
+Suppressed distributions, private prediction QA and warnings not reviewed here.
+No individual records or LOCAL_ONLY objects read. No manuscript/GitHub update.

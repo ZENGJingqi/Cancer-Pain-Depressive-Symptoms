@@ -188,5 +188,417 @@
     "path": "figures/FigureS1_dual_estimand_flow_v1.1_preview.png",
     "source_filename": "FigureS1_dual_estimand_flow_v1.1_preview.png",
     "source_sha256": "45ee345331f073eb97534bb378d8993ede1f54ec6cba01d19c93a6b426847ab2"
+  },
+  {
+    "path": "manuscript/Research_progress_report_2026-09-07_ZH.docx",
+    "source_filename": "研究结果与进展报告_2026-09-07.docx",
+    "source_sha256": "3ecfe4e51adb9e03a90f178d06f8e0531317ac83c5b3b5cc1716130b426000df"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_RR.csv",
+    "source_filename": "onset_symptoms_RR.csv",
+    "source_sha256": "433746264d2eefa2ed5cfa6135f880d8f274c6ea8beb5b0fdd0c7f6d3c087696"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_risks.csv",
+    "source_filename": "onset_symptoms_risks.csv",
+    "source_sha256": "1c6060d8989823f1c2d81a2a2d07babe8dd29c3f913c6b950e1ceb698a79e61d"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_risk_differences.csv",
+    "source_filename": "onset_symptoms_risk_differences.csv",
+    "source_sha256": "a85e549377cc69f9b3be502641294dc35fbfc51e5d12013afe8211c6eafc2b7d"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_per_imputation.csv",
+    "source_filename": "onset_symptoms_per_imputation.csv",
+    "source_sha256": "dc0260ea57fe18333cf8b92808847fcf5156bbfe3db021e760eb3db5a19fb533"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_risk_per_imputation.csv",
+    "source_filename": "onset_symptoms_risk_per_imputation.csv",
+    "source_sha256": "2ef02576b75a5d6ed19a893ad2e5a472f2e236de28e1bd8a4e70bfccd412fb7d"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_RD_per_imputation.csv",
+    "source_filename": "onset_symptoms_RD_per_imputation.csv",
+    "source_sha256": "d7a5e1eafbff8e8bd1b858f3282a038bf372156ca1a77df972fdb53dc3e64b4a"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_model_df.csv",
+    "source_filename": "onset_symptoms_model_df.csv",
+    "source_sha256": "4eaabdace8fba493c0848814f82813e0df1565f5298b54f1b49e5a1ff39e09e0"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_model_status.csv",
+    "source_filename": "onset_symptoms_model_status.csv",
+    "source_sha256": "6b3da420f87a9981fb576ed866a2beeb0f152dd6669032db5e35ddf81747d0d0"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_sample.csv",
+    "source_filename": "onset_symptoms_sample.csv",
+    "source_sha256": "3af45adad7029038b8ca8ba417a6f172b838ec0c4117e6b1cfc72b0a3db50f7b"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_status.csv",
+    "source_filename": "onset_symptoms_status.csv",
+    "source_sha256": "0dcdc5f5844e1c15dd4f5eef9ebc1231d830af8f39ecfd48e1c69e435f169940"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_distribution_checks.csv",
+    "source_filename": "onset_symptoms_distribution_checks.csv",
+    "source_sha256": "3363e5318a2c43bac144027a4cab97addc69fbcbc4bcdccef388b7653a4aa410"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_chainMean.csv",
+    "source_filename": "onset_symptoms_chainMean.csv",
+    "source_sha256": "8011b8e90c3edf53677f6b3cfa775f6402d247d53ec46bcd74bc9a01de71e47f"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_chainVar.csv",
+    "source_filename": "onset_symptoms_chainVar.csv",
+    "source_sha256": "6bea38babce8f988b629a284c0bd983ec1f5b33c70376a4866d0289082dd74bb"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_late_chain_diagnostics.csv",
+    "source_filename": "onset_symptoms_late_chain_diagnostics.csv",
+    "source_sha256": "8d87f85bd66f6434b37177544d52b03c6f561534f79d91bb7508819809fd26c2"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_symptoms_distribution_percent.csv",
+    "source_filename": "onset_symptoms_distribution_percent.csv",
+    "source_sha256": "553d28a8a3c759a6ce267223fe9608ed7fd168ab5ddfb75a7c5a6b229f376ad9"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_RR.csv",
+    "source_filename": "onset_composite_RR.csv",
+    "source_sha256": "03603530031e0f22de8f0a91b859e9c72d128a74e62cffc990434414d95f55f8"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_risks.csv",
+    "source_filename": "onset_composite_risks.csv",
+    "source_sha256": "9e9424c8645711064f1e50ff2eca8f5dd0f859d49e964860f80f274e66e288f2"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_risk_differences.csv",
+    "source_filename": "onset_composite_risk_differences.csv",
+    "source_sha256": "70df28b1e3971e21ecb9f5e78d1363141932bd77da51d60eaa30790b86fbc79d"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_per_imputation.csv",
+    "source_filename": "onset_composite_per_imputation.csv",
+    "source_sha256": "87c27a0f1cf817ab86a9935741a0a2715c30d9906aed96bb33582782dd5b8349"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_risk_per_imputation.csv",
+    "source_filename": "onset_composite_risk_per_imputation.csv",
+    "source_sha256": "81dada0f1d2f0e7f28962c43a8768fc023ad565ee934a74460eb433cf33cc7bf"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_RD_per_imputation.csv",
+    "source_filename": "onset_composite_RD_per_imputation.csv",
+    "source_sha256": "e624fe3228e7595ab15a6ea6c6823fafea13d4e4685a9d7bd3c524e4c9a944d5"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_model_df.csv",
+    "source_filename": "onset_composite_model_df.csv",
+    "source_sha256": "4eaabdace8fba493c0848814f82813e0df1565f5298b54f1b49e5a1ff39e09e0"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_model_status.csv",
+    "source_filename": "onset_composite_model_status.csv",
+    "source_sha256": "2595d15666cec458e9df391cbd68ee954f33f2001c1eda8356d613cf7554ad1d"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_sample.csv",
+    "source_filename": "onset_composite_sample.csv",
+    "source_sha256": "63e61ad5081a42f26c833a299834b1bc28c1eeac2d7d925f5822ee50b9808b8b"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_status.csv",
+    "source_filename": "onset_composite_status.csv",
+    "source_sha256": "c31dcc5cdc43e4db699186087baab24dacc4a1476bec439fd6132ea5ec031577"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_distribution_checks.csv",
+    "source_filename": "onset_composite_distribution_checks.csv",
+    "source_sha256": "64ae4e12219592a2f5aa77369b0f67d0752ff054308c96a94850ac91412011da"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_chainMean.csv",
+    "source_filename": "onset_composite_chainMean.csv",
+    "source_sha256": "7b77f3ddc7f3526481030445560a2f58d1492a643f359947a1df6f7e5887505f"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_chainVar.csv",
+    "source_filename": "onset_composite_chainVar.csv",
+    "source_sha256": "d8719b204bd58bb2644b1a85aeee975a6a4eac34f332ed933a98a49cebf99f2b"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/onset_composite_late_chain_diagnostics.csv",
+    "source_filename": "onset_composite_late_chain_diagnostics.csv",
+    "source_sha256": "fb0c26ea0eb3d83e416dc8fdb1eb2e7475e1bb118fee9f7a03f1988befa29d5c"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_RR.csv",
+    "source_filename": "persistence_symptoms_RR.csv",
+    "source_sha256": "9874307120103573b1ac651efd00c7ac50145d0af882e7a1020d054b22436dc9"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_risks.csv",
+    "source_filename": "persistence_symptoms_risks.csv",
+    "source_sha256": "22cfd4036c774ff4e27f3d6cd8648a48c8b957032851b9f715c1dec8172b0313"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_risk_differences.csv",
+    "source_filename": "persistence_symptoms_risk_differences.csv",
+    "source_sha256": "44cf3fad092dda0b84b9c102e287bf0ddadf4d5e3ace1e582c5d3ed966be0016"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_per_imputation.csv",
+    "source_filename": "persistence_symptoms_per_imputation.csv",
+    "source_sha256": "1e046d8927c3a01dd6dcfb6d7a5523dfa7e9b6a583feff46a2283e8e9b14eeab"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_risk_per_imputation.csv",
+    "source_filename": "persistence_symptoms_risk_per_imputation.csv",
+    "source_sha256": "8317c06120f15e340ec5b0b74fce46ad7a8ca6f4356302967f7ea47e53f7a4b6"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_RD_per_imputation.csv",
+    "source_filename": "persistence_symptoms_RD_per_imputation.csv",
+    "source_sha256": "f61b9489a3e622b24ca2598c108dc2e3b3904bdb30cd077da53334b3db617847"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_model_df.csv",
+    "source_filename": "persistence_symptoms_model_df.csv",
+    "source_sha256": "4eaabdace8fba493c0848814f82813e0df1565f5298b54f1b49e5a1ff39e09e0"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_model_status.csv",
+    "source_filename": "persistence_symptoms_model_status.csv",
+    "source_sha256": "82b4d07b86fa12d02a100d396278e37bc00d553f43323dccd39b1195dd723bd3"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_sample.csv",
+    "source_filename": "persistence_symptoms_sample.csv",
+    "source_sha256": "662edf316f98f4fda925a7ba8baf95f2978c03e63f2cbafcf382d45a49ac411e"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_status.csv",
+    "source_filename": "persistence_symptoms_status.csv",
+    "source_sha256": "7ac3c9177b2902755090b0c004f722df184cc1927be28d22895304c845ccea6d"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_distribution_checks.csv",
+    "source_filename": "persistence_symptoms_distribution_checks.csv",
+    "source_sha256": "66fd6333ce229f8b2e2f009cb5a1112a4df762c28222f2d7ae793e97d5dc223c"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_chainMean.csv",
+    "source_filename": "persistence_symptoms_chainMean.csv",
+    "source_sha256": "c357bf6707412e5dd82437d7aca95d928e3e257690e86927561c131f4c805014"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_chainVar.csv",
+    "source_filename": "persistence_symptoms_chainVar.csv",
+    "source_sha256": "3fd46ad228cdd5224d1b1b62d14db47bcfda0c17d6fcfe2f617ce8cf28006faf"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_symptoms_late_chain_diagnostics.csv",
+    "source_filename": "persistence_symptoms_late_chain_diagnostics.csv",
+    "source_sha256": "dcc3a707d2f03cf44acd3e15f7cd3aac3ad6e9c804f6183f73f708728c50c1f5"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_RR.csv",
+    "source_filename": "persistence_composite_RR.csv",
+    "source_sha256": "2b61f513be2b1ec84777a4e687540e61866d10884afeee7b8f24ebcbdb8aa78d"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_risks.csv",
+    "source_filename": "persistence_composite_risks.csv",
+    "source_sha256": "e28a61cac81b3f95a64c51b4f875e66a7ae7b6f77a92583a52de03ccfc3d9de5"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_risk_differences.csv",
+    "source_filename": "persistence_composite_risk_differences.csv",
+    "source_sha256": "08dd0d4a0f7d19a9fabdc420d7771821e7d32b0891b8bd9dbabcc8f30f5ddd12"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_per_imputation.csv",
+    "source_filename": "persistence_composite_per_imputation.csv",
+    "source_sha256": "19950e0eed74b8fe77284f000e68d112f84ee72ea3985e9943197512a9f153fe"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_risk_per_imputation.csv",
+    "source_filename": "persistence_composite_risk_per_imputation.csv",
+    "source_sha256": "cfa146bb8d401a25a2016fa002a7be2d5ea7f02771501917c5197a57f70c523e"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_RD_per_imputation.csv",
+    "source_filename": "persistence_composite_RD_per_imputation.csv",
+    "source_sha256": "1020b8adafdd6f8b097870ac6f7bba8b92b4e13b381d4b8a61377fd4fa2fef66"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_model_df.csv",
+    "source_filename": "persistence_composite_model_df.csv",
+    "source_sha256": "4eaabdace8fba493c0848814f82813e0df1565f5298b54f1b49e5a1ff39e09e0"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_model_status.csv",
+    "source_filename": "persistence_composite_model_status.csv",
+    "source_sha256": "a88d7597dbf8607bb80ea2ed097b8384142779bc580cdf8dbf8cb7ad206d8495"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_sample.csv",
+    "source_filename": "persistence_composite_sample.csv",
+    "source_sha256": "04c641c90c46d395fda7b6cbb656ead3e8d6cd487dac8058a32b809de14308ba"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_status.csv",
+    "source_filename": "persistence_composite_status.csv",
+    "source_sha256": "e80bf74998bcb81184e9057fbe96fb14ea001a3c65a9a2e45c72fede1b50ddf2"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_distribution_checks.csv",
+    "source_filename": "persistence_composite_distribution_checks.csv",
+    "source_sha256": "66fd6333ce229f8b2e2f009cb5a1112a4df762c28222f2d7ae793e97d5dc223c"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_chainMean.csv",
+    "source_filename": "persistence_composite_chainMean.csv",
+    "source_sha256": "da3a62710770772254eb214855674d0cf209f2aff916077c1eef8832ad1624d2"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_chainVar.csv",
+    "source_filename": "persistence_composite_chainVar.csv",
+    "source_sha256": "70ef34c4475b04c556b6d3b1d015bcd38a4fdb28674706b2291f261a56b87e79"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/persistence_composite_late_chain_diagnostics.csv",
+    "source_filename": "persistence_composite_late_chain_diagnostics.csv",
+    "source_sha256": "5895bc9021df37843d021c14572d1fd94cbe9107ae1160c1bd4fb9c20c3ce44f"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/job_status.csv",
+    "source_filename": "job_status.csv",
+    "source_sha256": "80156df0a3cf3e0645a1f7d9ba56666bca0d5f60dbdeb797c4a3d0ad3477b225"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/input_hashes.csv",
+    "source_filename": "input_hashes.csv",
+    "source_sha256": "0fd58de8143ddd8986547cd00b20021a9f98ecb3fa334fe71f63d0344fd6e3df"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/code_hashes.csv",
+    "source_filename": "code_hashes.csv",
+    "source_sha256": "299c5bcc1de7a01d69627892a3cbd1f97949aec8cfa173239ad86eae1d79b8cb"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/SOURCE_AND_SCOPE.txt",
+    "source_filename": "SOURCE_AND_SCOPE.txt",
+    "source_sha256": "c3b51130cda3ea4580d933386acbf4afe68bd49af463bc370aabf05f74319cbb"
+  },
+  {
+    "path": "supporting/hrs_final_core_2026-09-07/RUN_STATUS.txt",
+    "source_filename": "RUN_STATUS.txt",
+    "source_sha256": "ecd7a2afc2615ab83e020d495f4e4664b7a7113d7087ca086478499f244f1f13"
+  },
+  {
+    "path": "supporting/hrs_prior_mi50/hrs_onset_extended_RR.csv",
+    "source_filename": "hrs_onset_extended_RR.csv",
+    "source_sha256": "d6e3689a2ece9aa95fc7679b6ca8b5be840c6b994f22360e20da2c1afa512ed1"
+  },
+  {
+    "path": "supporting/hrs_prior_mi50/hrs_composite_onset_extended_RR.csv",
+    "source_filename": "hrs_composite_onset_extended_RR.csv",
+    "source_sha256": "99799f3815c6da4d1ddeb16ae9f450d1b47d4129bf2a4e71f4cfbb97201f87f1"
+  },
+  {
+    "path": "supporting/hrs_prior_mi50/hrs_persistence_extended_RR.csv",
+    "source_filename": "hrs_persistence_extended_RR.csv",
+    "source_sha256": "45e375e086c5cece7978a8d5cc5f40ed2d56972fc58b61bf487601034fcccedd"
+  },
+  {
+    "path": "supporting/hrs_prior_mi50/hrs_composite_persistence_extended_RR.csv",
+    "source_filename": "hrs_composite_persistence_extended_RR.csv",
+    "source_sha256": "7e628fdcdc380a3f1578c14b7094434ad2de399ae8e07c410846baeead7785a5"
+  },
+  {
+    "path": "supporting/hrs_final_core_audit/pooling_checks.csv",
+    "source_filename": "pooling_checks.csv",
+    "source_sha256": "463ba7681b2e955719db62560c08990adaf24cef1d67a155b0dc7482922fdd10"
+  },
+  {
+    "path": "supporting/hrs_final_core_audit/old_new_RR_comparison.csv",
+    "source_filename": "old_new_RR_comparison.csv",
+    "source_sha256": "b5a50555bbe588ae1dd722ec21f6958ea1778d672fb14ae22de6665f2f540544"
+  },
+  {
+    "path": "supporting/hrs_final_core_audit/independent_chain_diagnostics.csv",
+    "source_filename": "independent_chain_diagnostics.csv",
+    "source_sha256": "54fa61975b8513a99b824639ea937e724b30219e6bd4e2c5343ea926f90e242b"
+  },
+  {
+    "path": "supporting/hrs_final_core_audit/sample_review.csv",
+    "source_filename": "sample_review.csv",
+    "source_sha256": "a118dcef60f8ac9fe40c48f4e510201508e2bef4deb7f7994b63c6e302c78c64"
+  },
+  {
+    "path": "supporting/hrs_final_core_audit/remaining_local_diagnostics.csv",
+    "source_filename": "remaining_local_diagnostics.csv",
+    "source_sha256": "cf903568fbdff8c588b4396873741a739f7fedf70935bffdf3387795034868cd"
+  },
+  {
+    "path": "supporting/hrs_final_core_audit/AUDIT_STATUS.txt",
+    "source_filename": "AUDIT_STATUS.txt",
+    "source_sha256": "a66fd8c04486ba6bc95534f1cb336e0328a0b3100cc42b5e82b19e28f99a5170"
+  },
+  {
+    "path": "code/hrs_final_core_reference/HRS_local_run_package/final_core_update.R",
+    "source_filename": "final_core_update.R",
+    "source_sha256": "6c2b275c2c7a6543f6081f3b94a1346ccb0db5094fa4c76eabc4499a9093d92b"
+  },
+  {
+    "path": "code/hrs_final_core_reference/HRS_local_run_package/final_core_compare.R",
+    "source_filename": "final_core_compare.R",
+    "source_sha256": "491021841e7f8a3ff92a32d80cb0a2f7a421f2506958af98649e7b16e995aa2d"
+  },
+  {
+    "path": "code/hrs_final_core_reference/HRS_local_run_package/HRS_run.R",
+    "source_filename": "HRS_run.R",
+    "source_sha256": "0417901979e22f1331b8e1c7fdf7ed6fbcff40d4a2c6e3ba07b4d46e27fe9598"
+  },
+  {
+    "path": "code/hrs_final_core_reference/Reliability_local_run_package/reliability_checks.R",
+    "source_filename": "reliability_checks.R",
+    "source_sha256": "c474617f7aa36ed119cf53adbbc43a5e2f2baee9a1b890a84c42577aa1ed83ee"
+  },
+  {
+    "path": "code/hrs_final_core_reference/Reliability_local_run_package/extend_mi.R",
+    "source_filename": "extend_mi.R",
+    "source_sha256": "e1d383d2cb1c3f1b652e5c5b46408fdc848805a067b065e705cda5185d4bc5fa"
+  },
+  {
+    "path": "code/hrs_final_core_reference/scripts/27_construct_retention_weights_and_freeze_v1_0.R",
+    "source_filename": "27_construct_retention_weights_and_freeze_v1_0.R",
+    "source_sha256": "7d76ed68412a130fcd0996949e9398c8edcf5e6c91d3e2e8db6b2b561642bb83"
+  },
+  {
+    "path": "code/hrs_final_core_reference/scripts/39_build_persistence_intervals_and_weights_v1_1.R",
+    "source_filename": "39_build_persistence_intervals_and_weights_v1_1.R",
+    "source_sha256": "6eaa6d9bf98f43499df661cab8e498e52660b0a52b77fce90aa4a60688ed12ca"
+  },
+  {
+    "path": "code/hrs_final_core_reference/scripts/96_test_final_core_update_synthetic.R",
+    "source_filename": "96_test_final_core_update_synthetic.R",
+    "source_sha256": "59684e7c6b4a1cdd63e5a98f0fc2d7641b386f5e21286ef69d0bd7645a7a6e52"
+  },
+  {
+    "path": "code/audit_hrs_final_core_summaries.R",
+    "source_filename": "97_audit_final_core_summary.R",
+    "source_sha256": "b3cdf7bcdaf29254da5ba4b789e10e9e15dcd0eb968d0c422e2cb8ba6e9c8f9a",
+    "published_sha256": "c640275b80f017227098bfaf756872f58fa3dc5417b7e158dbb01863c2a41ccd",
+    "transformation": "Only three input/output root assignments adapted to repository paths"
   }
 ]

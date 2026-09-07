@@ -1,0 +1,8 @@
+HRS 2022 symptoms: Final Core V2.0, SD110-SD117, all eight items valid, threshold >=4.
+2012-2020 baseline variables, baseline weights, and prior intervals: archived sources unchanged.
+Death tracking and original interview codes: archived RAND, NOT a new Final Tracker refresh.
+No Core record / missing CES-D means unobserved symptoms, NOT death.
+New MI: m20, 50 iterations; original completed imputations not reused.
+Four core models, five contrasts each; finite-df pooling and absolute risks/differences.
+Other HRS extended/sensitivity models, combined-cohort tables and manuscript NOT updated by this run.
+No claim of whole-paper closure or convergence until summaries reviewed.

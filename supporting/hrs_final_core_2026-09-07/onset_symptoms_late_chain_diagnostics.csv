@@ -1,0 +1,5 @@
+"variable","parameter","last_iterations","split_rhat_classic","first_iteration","final_iteration"
+"current_smoking","chainMean",20,0.986050862498797,31,50
+"current_smoking","chainMean",30,0.994921643835406,21,50
+"current_smoking","chainVar",20,0.984798349031508,31,50
+"current_smoking","chainVar",30,0.995489671736888,21,50

@@ -1,0 +1,5 @@
+"analysis","n_intervals","n_persons","events","matches_prior_intervals","matches_prior_persons","matches_prior_events"
+"onset_symptoms",58286,19027,4866,FALSE,FALSE,FALSE
+"onset_composite",61371,19891,7951,FALSE,FALSE,FALSE
+"persistence_symptoms",10049,5664,5462,FALSE,FALSE,FALSE
+"persistence_composite",11078,6228,6491,FALSE,FALSE,FALSE

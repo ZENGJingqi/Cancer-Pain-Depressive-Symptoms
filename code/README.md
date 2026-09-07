@@ -1,5 +1,9 @@
 # Code scope
 
+## New endpoint update and aggregate audit
+
+Run `Rscript code/audit_hrs_final_core_summaries.R` from the repository root to verify the 7 September safe aggregate results without participant data. Outputs go to ignored `generated_audit/`. The [HRS reference snapshot](hrs_final_core_reference/README.md) documents the corresponding update and includes a synthetic test. It is not a complete public real-data replication package. Historical figure commands below continue to reproduce v0.9 figures, not updated HRS figures.
+
 ## Executable aggregate-only reproduction
 
 Run `Rscript code/reproduce_main_figures.R` and `Rscript code/reproduce_flow_figure.R` from the repository root. These use published CSV summaries only. The plotting logic preserves the reviewed full-confidence-interval display correction. Flow plotting now reads the already-aggregated corrected flow table instead of accessing private records. Outputs are separate from archived figures.

@@ -9,3 +9,6 @@ Non-fatal warnings concerned packages built under R 4.5.2, locale startup settin
 The manuscript retains all 13 table panels and five images unchanged. Repository availability wording and the supporting-materials index were updated; a redundant page break was removed. Outstanding scientific checks are listed in STATUS.md.
 
 The public staging set was checked for unexpected file types, common secret/local-path patterns, individual-identifier columns, and embedded Word comments or objects. File selection used an explicit allowlist; source data directories were not traversed for publication. This is a targeted release check, not a general disclosure-risk guarantee for arbitrary future uploads.
+# Verification of the 7 September update
+
+The public `code/audit_hrs_final_core_summaries.R` ran successfully from the repository root: all 56 pooled RR/risk/RD calculations matched, with 24 independently computed classic chain diagnostics. The reference-folder synthetic test also completed four models with m=2 and 50 iterations, including logical/numeric event compatibility and a deliberate earlier-event-change failure test. Neither execution opened participant data. These checks do not validate the unreviewed private diagnostics or update the historical manuscript figures.

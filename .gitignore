@@ -1,4 +1,6 @@
 generated_figures/
+generated_audit/
+FINAL_CORE_UPDATE_SYNTHETIC_TEST.txt
 data/
 LOCAL_ONLY/
 *.rds
