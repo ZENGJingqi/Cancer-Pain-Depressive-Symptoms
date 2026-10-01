@@ -1,0 +1,2 @@
+# Preserve frozen byte hashes across platforms, including aggregate input CSVs.
+* -text

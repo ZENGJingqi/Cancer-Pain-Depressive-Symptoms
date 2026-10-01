@@ -1,14 +1,7 @@
-# Aggregate reproduction check
+# Aggregate reproduction check 2026-10-01
 
-Tested on 6 September 2026 with R 4.5.1 on Windows, data.table 1.18.0, ggplot2 4.0.2, scales 1.4.0, pdftools 3.7.0 and patchwork 1.3.2. Arial and Cairo PDF support were available.
+The portable current/code/reproduce_current.R was executed from repository root against frozen aggregate CSVs only. Eight REML/Hartung-Knapp syntheses passed independent checks of the inverse-variance mean and HK variance. All five rendered PNGs were pixel-identical to the locally reviewed current figures. No participant data, model objects or imputations were read.
 
-Both documented plotting commands completed. All five regenerated PNG previews were pixel-identical to the archived reviewed figures after preserving the explicit flow-step ordering. The commands used only the public aggregate inputs. No participant-level model was refitted.
+Current manuscript has 23 pages, nine table panels, five figures and 26 retained references; the Chinese report has two pages and no tables. Word exports were reviewed page by page and title/table layout corrections verified. This validates assembly and rendering, not all underlying participant-level assumptions.
 
-Non-fatal warnings concerned packages built under R 4.5.2, locale startup settings, ggplot2's deprecated `geom_errorbarh` spelling, and an extra PDF conversion filename-format argument. All five PDFs and previews were produced; these warnings did not alter the verified images. This check is not a cross-platform guarantee or validation of the underlying statistical models. Fonts or package versions can affect rendering elsewhere.
-
-The manuscript retains all 13 table panels and five images unchanged. Repository availability wording and the supporting-materials index were updated; a redundant page break was removed. Outstanding scientific checks are listed in STATUS.md.
-
-The public staging set was checked for unexpected file types, common secret/local-path patterns, individual-identifier columns, and embedded Word comments or objects. File selection used an explicit allowlist; source data directories were not traversed for publication. This is a targeted release check, not a general disclosure-risk guarantee for arbitrary future uploads.
-# Verification of the 7 September update
-
-The public `code/audit_hrs_final_core_summaries.R` ran successfully from the repository root: all 56 pooled RR/risk/RD calculations matched, with 24 independently computed classic chain diagnostics. The reference-folder synthetic test also completed four models with m=2 and 50 iterations, including logical/numeric event compatibility and a deliberate earlier-event-change failure test. Neither execution opened participant data. These checks do not validate the unreviewed private diagnostics or update the historical manuscript figures.
+Public whitelist was checked for forbidden source-data formats, participant identifier columns, embedded/comment Word payloads, credentials and personal paths. Already-public historical code keeps benign runtime/output placeholder roots. Detailed hashes are in MANIFEST_SHA256.csv. Design and diagnostic limits remain in STATUS.md and manuscript.

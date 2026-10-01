@@ -1,0 +1,19 @@
+{
+  "version": "content-freeze-2026-10-01",
+  "model_fitting": false,
+  "new_imputation": false,
+  "SHARE_official_design": "NOT_PERFORMED_EXCLUDED_BY_AUTHOR_DECISION",
+  "absolute_risk_scope": "HRS only; QA-triggered logistic correction; other cohorts old risks are historical",
+  "limitations": [
+    "Suppressed MI distributions and original private warning details not completely reviewed",
+    "Final baseline descriptive characteristics and detailed flow not regenerated from individual records",
+    "Not a submission-ready declaration; author and institutional ethics fields remain to confirm"
+  ],
+  "safe_rows": {
+    "RR": 60,
+    "samples": 12,
+    "risks": 16,
+    "RD": 20,
+    "HRS_extensions": 108
+  }
+}

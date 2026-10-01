@@ -1,41 +1,30 @@
-# Cancer history pain and depressive symptom transitions
+# Current pain and cancer history in depressive symptom transitions
 
-Research materials for **Current pain and cancer history in depressive symptom transitions across three ageing cohorts**.
+Content freeze dated 2026-10-01. Coordinated prospective analyses of HRS, SHARE and CHARLS adults aged at least 50 years. Primary outcome: next-wave high depressive symptoms among respondents initially below threshold. Important secondary outcome: persistence among respondents initially above threshold. Each cohort is analysed separately. These are symptom-transition associations among surviving respondents, not clinical depression diagnoses, causal effects or validated prediction performance.
 
-**Review update 7 September 2026; complete manuscript retained at v0.9. Not a peer-reviewed publication or submission-ready final analysis.** The study examines any cancer history and current pain in relation to subsequent elevated depressive symptoms in HRS, SHARE and CHARLS. Onset is the primary outcome; persistence is a secondary outcome. Results describe associations among surviving follow-up respondents, not causal effects, predictive superiority, or a general health-risk ranking. This is not a digestive-cancer-specific study.
+## Current materials
 
-The new [Chinese progress report](manuscript/Research_progress_report_2026-09-07_ZH.docx), [HRS Final Core endpoint summaries](supporting/hrs_final_core_2026-09-07/README.md) and [source snapshot](code/hrs_final_core_reference/README.md) are separate from the older complete manuscript. See [version guide](manuscript/README.md) and [release notes](RELEASE_2026-09-07.md). New HRS extensions and multicohort figures have not yet been synchronized. New Poisson-standardized risks do not replace the manuscript's logistic-standardized Table 3.
+- [Manuscript Word](current/manuscript/Manuscript_content_v1.0.docx) and [readable text](current/manuscript/Manuscript_content_v1.0.md).
+- [Chinese research closeout report](current/manuscript/Research_closeout_report_Chinese.docx).
+- [Current aggregate results](current/results/) and [five R figures](current/figures/).
+- [Selected code](current/code/), [source provenance](PROVENANCE.json) and [file hashes](MANIFEST_SHA256.csv).
 
-## Materials
+HRS follow-up depressive symptoms for 2022 now use Final Core Version 2.0. Baseline and earlier intervals retain the frozen RAND framework; mortality remains from the archived RAND source, not a newly obtained Final Tracker. Current main symptom models contain 141,599 onset intervals and 43,192 persistence intervals. Cancer and pain versus neither has pooled RR 1.42 (95% CI 1.17-1.72) for onset and 1.22 (1.04-1.42) for persistence.
 
-- [Full editable manuscript v0.9](manuscript/Manuscript_review_v0.9.docx): retained review text, references, Tables 1–3, Table S3 and five figures; predates the Final Core update.
-- [Searchable manuscript text](manuscript/Manuscript_text_v0.9.md): prose and legends; full numerical tables are in the DOCX and CSV files.
-- [Supporting results](supporting/README.md): aggregate tables and plot inputs only.
-- [Figures](figures): the reviewed vector PDFs and PNG previews.
-- [Code guide](code/README.md): aggregate-only reproduction and selected historical analysis source modules.
-- [Data access](DATA_ACCESS.md), [outstanding checks](STATUS.md) and [file checksums](MANIFEST_SHA256.csv).
+HRS absolute risks and risk differences were corrected using survey-logistic standardization on the same saved imputations after probability QA. This is a disclosed post hoc method correction. Modified Poisson RRs remain the relative-effect estimates. Other cohorts' older absolute-risk tables are historical and are not mixed into the current absolute-risk table.
 
-## Reproduce the five figures without participant data
+## Reproduce from aggregates
 
-From this repository root, in R 4.5 or a compatible environment with data.table, ggplot2, scales, pdftools and patchwork installed:
+From repository root, with data.table, ggplot2, metafor and pdftools installed:
 
-```sh
-Rscript code/reproduce_main_figures.R
-Rscript code/reproduce_flow_figure.R
+```r
+source("current/code/reproduce_current.R", encoding = "UTF-8")
 ```
 
-Outputs go to `generated_figures/`, leaving archived figures unchanged. Arial and Cairo PDF support are required for matching typography. These commands read only the published aggregate CSV files. They do not refit participant-level models. Package versions and verification status are recorded in `REPRODUCTION_CHECK.md`.
+This rebuilds eight REML/Hartung-Knapp main syntheses and five PDF/PNG figures from safe summaries, not all participant-level processing from raw records. Local reference functions have portable placeholder paths and require separately licensed data plus dependencies; sourcing them does not start analysis. See [code scope](current/code/README.md).
 
-This is a selected-code and aggregate-results release, **not a complete raw-data-to-results replication package**. See STATUS.md before reusing the findings. Participant-level data, derived person-interval files, imputation objects, model objects, private logs, access statements and credentials are not included. Obtain data independently from each provider under its current terms; do not send restricted records to AI services.
+## Important limits
 
-## Citation
+Official SHARE PSU/stratum sensitivity was not performed and was excluded from the analysis scope. Reported SHARE models use country strata and household-first clustering, which may not reproduce official-design variance. Some suppressed MI distributions and original private warnings were not fully reviewed. Final baseline descriptive characteristics and detailed eligibility flow were not regenerated from participant records; current Table 1 reports model counts. Institutional ethics determination and author-level submission fields remain to confirm. This content freeze is not a declaration that all diagnostic gates or submission requirements have passed.
 
-For the 7 September report/code/aggregate update, cite this repository with the relevant commit or tag `review-update-2026-09-07`. The manuscript version itself remains v0.9.
-
-ZENGJingqi. Cancer-Pain-Depressive-Symptoms. Prepublication research repository, review release v0.9 (2026). https://github.com/ZENGJingqi/Cancer-Pain-Depressive-Symptoms
-
-For an exact snapshot, also record the commit hash or tag `review-v0.9`. This is a repository citation, not a claim of publication or a finalized paper author list. No DOI has been assigned.
-
-## Rights
-
-No license is asserted over third-party cohort data. A reuse license for original repository materials has not yet been selected by the author. Public access alone is not a grant of unrestricted redistribution rights.
+[Historical September materials](archive/review_2026-09-07/) are preserved for traceability and are not current HRS results. No raw data, participant records, imputations, model objects or private logs are distributed. Obtain data separately from [HRS](https://hrsdata.isr.umich.edu/), [SHARE](https://share-eric.eu/data/data-access) and [CHARLS](https://charls.pku.edu.cn/) under their access conditions.
