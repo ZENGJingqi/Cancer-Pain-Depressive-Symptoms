@@ -84,4 +84,3 @@ contract, not downloadable result files.
 ### nonHRS_sleep_item_excluded_score_sensitivity_v1.1.csv
 
 `cohort`, `estimand`, `outcome`, `contrast`, `n_intervals`, `n_persons`, `estimate_sd`, `se`, `conf_low`, `conf_high`, `p_value`
-
