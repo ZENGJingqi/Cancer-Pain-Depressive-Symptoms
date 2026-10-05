@@ -162,5 +162,27 @@
     "path": "current/provenance_inputs/29_sleep_item_excluded_score_sensitivity_v1.1.csv",
     "source_filename": "sleep_item_excluded_score_sensitivity_v1.1.csv",
     "source_sha256": "48eb7335b2444bd48347d88cc31a1749306dfd2359f1d7b9a30e8701162da3c9"
+  },
+  {
+    "path": "current/code/render_publication_figures.R",
+    "source_filename": "136_no_panel_letters_enhanced_figures.R",
+    "source_sha256": "9e006f78d14e985a9103366f043e77cf812b2ff8ebc071a681abaae721077d1b",
+    "adaptation": "Portable inputs and isolated generated outputs; plotting logic unchanged"
+  },
+  {
+    "path": "current/code/render_robustness_matrix.R",
+    "source_filename": "139_redesign_robustness_matrix.R",
+    "source_sha256": "09a60ab0eabe99a809f6bde0172d471e3ceee29949cb0ad94a9e6167c130455b",
+    "adaptation": "Portable inputs and isolated generated outputs; plotting logic unchanged"
+  },
+  {
+    "path": "current/manuscript/Manuscript.docx",
+    "source_filename": "手稿.docx",
+    "source_sha256": "25e1f88cb53a78e4ee3cb5588478a1cc7dcfe333290f57fe745a7af4868f7cda",
+    "adaptation": "Byte-identical reviewed human manuscript; not regenerated from old Markdown"
+  },
+  {
+    "path": "current/code/reproduce_current.R",
+    "adaptation": "Legacy aggregate meta/five-figure entry retained, redirected away from frozen current files"
   }
 ]

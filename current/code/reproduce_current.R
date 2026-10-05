@@ -3,7 +3,7 @@
 suppressPackageStartupMessages({library(data.table); library(ggplot2); library(metafor)})
 args <- commandArgs(trailingOnly=TRUE)
 root <- if(length(args)) args[1] else 'current'
-td <- file.path(root,'results'); fd <- file.path(root,'figures')
+td <- file.path(root,'results'); fd <- 'generated_legacy_figures'
 dir.create(fd,recursive=TRUE,showWarnings=FALSE)
 rr <- fread(file.path(td,'cohort_RR_current.csv'))
 stopifnot(nrow(rr)==60L, all(abs(exp(rr$log_rr)-rr$rr)<1e-10))
@@ -23,9 +23,10 @@ meta <- rbindlist(lapply(c('onset','persistence'),function(e) {
        n_intervals=sum(x$n_intervals),events=sum(x$events),method='REML Hartung-Knapp')
   }))
 }))
-fwrite(meta,file.path(td,'meta_current.csv'),bom=TRUE)
+dir.create('generated_aggregate_meta',showWarnings=FALSE)
+fwrite(meta,'generated_aggregate_meta/meta_current.csv',bom=TRUE)
 all <- rbindlist(list(rr[outcome=='symptoms'],meta),fill=TRUE)
-fwrite(all,file.path(td,'symptom_RR_with_meta_current.csv'),bom=TRUE)
+fwrite(all,'generated_aggregate_meta/symptom_RR_with_meta_current.csv',bom=TRUE)
 cols <- c(HRS='#BC3C29',SHARE='#0072B5',CHARLS='#E18727',Pooled='#20854E')
 tbase <- function() theme_classic(base_size=14,base_family='Arial') +
   theme(text=element_text(colour='black'),axis.text=element_text(colour='black'),

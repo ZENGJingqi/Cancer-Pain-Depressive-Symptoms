@@ -1,0 +1,13 @@
+﻿column_1,column_2,column_3
+Phenotype or contrast,Onset (95% CI),Persistence (95% CI)
+Standardized risk (%),Standardized risk (%),Standardized risk (%)
+Neither,6.16 (5.80-6.55),46.01 (43.38-48.66)
+Cancer only,6.66 (5.78-7.66),52.04 (45.19-58.82)
+Pain only,9.06 (8.45-9.71),55.99 (54.08-57.88)
+Cancer and pain,9.02 (7.82-10.38),56.73 (52.58-60.79)
+Risk difference (percentage points),Risk difference (percentage points),Risk difference (percentage points)
+Cancer and pain vs neither,2.86 (1.58-4.13),10.73 (5.64-15.81)
+Cancer and pain vs cancer only,2.36 (0.96-3.75),4.69 (-3.16-12.54)
+Pain only vs neither,2.90 (2.18-3.62),9.98 (6.71-13.25)
+Cancer only vs neither,0.50 (-0.43-1.42),6.03 (-0.91-12.98)
+Pain only vs cancer only,2.40 (1.28-3.53),3.95 (-2.88-10.77)
