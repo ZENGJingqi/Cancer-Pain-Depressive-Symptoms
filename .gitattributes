@@ -1,2 +1,5 @@
-# Preserve frozen byte hashes across platforms, including aggregate input CSVs.
-* -text
+* text=auto
+*.R text eol=lf
+*.md text eol=lf
+*.png binary
+*.pptx binary
